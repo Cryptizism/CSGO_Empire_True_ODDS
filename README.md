@@ -14,3 +14,11 @@
 ## How does it work?
 
 The system makes use of the API for the fairness system
+
+## Why are the trains so big
+
+It counts the dice as apart of the train, this was made to evalute the usefulness of Martingale strat
+
+## Contact
+
+Discord: [Cryptizism#2999](https://discord.com/users/155649008868524032)
