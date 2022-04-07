@@ -68,7 +68,7 @@ async function fetchingLoop(){
 }
 
 async function startLoop(){
-    if(loopCount = maxLoop){ return; }
+    if(loopCount == maxLoop){ return; }
     let result = await fetchingLoop();
     if(result){
         loopCount++;
