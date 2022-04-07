@@ -10,6 +10,7 @@
 2. Go into the folder edit the variables at the top (optionat, but reccomened)
 3. Go into cmd prompt, cd into the folder and run npm i
 4. Run `node .`
+5. The data will populate ur command prompt
 
 ## How does it work?
 
